@@ -1,0 +1,11 @@
+C:\Users\Jense\source\repos\Libarary Terminal Mid Term Project\Libarary Terminal Mid Term Project\bin\Debug\netcoreapp2.2\Library Terminal Mid Term Project.deps.json
+C:\Users\Jense\source\repos\Libarary Terminal Mid Term Project\Libarary Terminal Mid Term Project\bin\Debug\netcoreapp2.2\Library Terminal Mid Term Project.runtimeconfig.json
+C:\Users\Jense\source\repos\Libarary Terminal Mid Term Project\Libarary Terminal Mid Term Project\bin\Debug\netcoreapp2.2\Library Terminal Mid Term Project.runtimeconfig.dev.json
+C:\Users\Jense\source\repos\Libarary Terminal Mid Term Project\Libarary Terminal Mid Term Project\bin\Debug\netcoreapp2.2\Library Terminal Mid Term Project.dll
+C:\Users\Jense\source\repos\Libarary Terminal Mid Term Project\Libarary Terminal Mid Term Project\bin\Debug\netcoreapp2.2\Library Terminal Mid Term Project.pdb
+C:\Users\Jense\source\repos\Libarary Terminal Mid Term Project\Libarary Terminal Mid Term Project\obj\Debug\netcoreapp2.2\Library Terminal Mid Term Project.csprojAssemblyReference.cache
+C:\Users\Jense\source\repos\Libarary Terminal Mid Term Project\Libarary Terminal Mid Term Project\obj\Debug\netcoreapp2.2\Library Terminal Mid Term Project.csproj.CoreCompileInputs.cache
+C:\Users\Jense\source\repos\Libarary Terminal Mid Term Project\Libarary Terminal Mid Term Project\obj\Debug\netcoreapp2.2\Library Terminal Mid Term Project.AssemblyInfoInputs.cache
+C:\Users\Jense\source\repos\Libarary Terminal Mid Term Project\Libarary Terminal Mid Term Project\obj\Debug\netcoreapp2.2\Library Terminal Mid Term Project.AssemblyInfo.cs
+C:\Users\Jense\source\repos\Libarary Terminal Mid Term Project\Libarary Terminal Mid Term Project\obj\Debug\netcoreapp2.2\Library Terminal Mid Term Project.dll
+C:\Users\Jense\source\repos\Libarary Terminal Mid Term Project\Libarary Terminal Mid Term Project\obj\Debug\netcoreapp2.2\Library Terminal Mid Term Project.pdb
